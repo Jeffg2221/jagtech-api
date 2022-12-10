@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'http://jagtech.onrender.com',
+    'https://jagtech.onrender.com',
     
 ]
 
